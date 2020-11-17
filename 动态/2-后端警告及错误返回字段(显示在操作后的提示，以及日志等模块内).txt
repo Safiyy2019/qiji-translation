@@ -1,0 +1,15 @@
+{ "translations": {
+    "Not logged in" : "",
+    "Invalid user" : "",
+    "No settings enabled" : "",
+    "Rich subject or a parameter for "' . $event->getRichSubject() . '" is malformed" : "",
+    "Rich message or a parameter is malformed" : "",
+    "Activity "' . $event->getRichSubject() . '" was not parsed by any provider" : "",
+    "Couldn't send notification email to user '{user}' (email address isn't set for that user)" : "",
+    "Failed sending activity email to user '{user}'" : "",
+    "Failed sending activity email to user" : "",
+    "Notification for user "{user}" not sent because the email address "{email}" is invalid" : "",
+    "There was some activity at %s', [$homeLink]" : "",
+    
+},"pluralForm" :"nplurals=1; plural=0;"
+}
